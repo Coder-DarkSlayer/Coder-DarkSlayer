@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dark Slayer 🙋🙋🙋
-- 👀 I’m interested in Python,C++,js and php.
+- 👀 I’m interested in Python, C++, Java, C.
      I'm not a master in all of these but I can code 😅😅😅
-- 🌱 I’m currently learning js....
+- 🌱 I’m currently learning C++..
 - 🙏 Thank You 🙏
 
 <!---
