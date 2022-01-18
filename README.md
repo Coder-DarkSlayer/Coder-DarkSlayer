@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dark Slayer 🙋🙋🙋
-- 👀 I’m interested in Python, C++, Java, C.
+- 👀 I’m interested in Python, C++, Java.
      I'm not a master in all of these but I can code 😅😅😅
 - 🌱 I’m currently learning C++..
 - 🙏 Thank You 🙏
