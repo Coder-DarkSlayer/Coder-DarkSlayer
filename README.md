@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dark Slayer 🙋🙋🙋
+- 👋 Hi, I’m Ritesh Kumar 🙋🙋🙋
 - 👀 I'm student in IIT - Ropar : CSE department 
-- 🌱 I’m currently learning C++..
+- 🌱 I’m currently learning C++, JAVA and Python.
 - 🙏 Thank You 🙏
 
 <!---
